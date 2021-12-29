@@ -2,7 +2,7 @@
 A simple web application for movie fanatic
 
 ## Preview
-![screenshot](https://i.ibb.co/p1GcgmS/2021-12-29-6-35-07.png)
+![screenshot](https://i.ibb.co/bJxjXD9/127-0-0-1-5500-index-HTML.png)
 
 ## Features
 - listing movies from movie api
