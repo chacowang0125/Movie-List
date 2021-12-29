@@ -1,6 +1,9 @@
 # Movie List
 A simple web application for movie fanatic
 
+## Preview
+![screenshot](https://i.ibb.co/p1GcgmS/2021-12-29-6-35-07.png)
+
 ## Features
 - listing movies from movie api
 - searching movies by title
